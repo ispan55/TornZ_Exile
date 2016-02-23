@@ -26,5 +26,5 @@ Check out http://www.exilemod.com/topic/9708-battleye-filter-editor/
 Is only available via a3launcher @ http://a3launcher.com/  
 
 #### Important
-Max Player Count is around 70 players, due to limit on group size.
-It is possible to increase this by altering the group code if required.
+Max Player Count is around 70 players, due to limit on group size.  
+It is possible to increase this by altering the group side (via SQF) if required.
