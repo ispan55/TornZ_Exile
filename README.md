@@ -1,8 +1,3 @@
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="[paypal]" />
-
-
-
 ## TornZ  
 Is just the an addon with assets / models / animations.  
 RyanZombies https://forums.bistudio.com/topic/182412-zombies-demons-36/  
@@ -11,6 +6,8 @@ Seperate Mod allows people to write a custom code without having to worry about 
 
 ## TornZ_Exile  
 This contains the actually custom sqf/fsm code for the zombies themselves.  
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="[paypal]" />
 
 
 #### Install Instructions  
