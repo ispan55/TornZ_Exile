@@ -24,3 +24,7 @@ Check out http://www.exilemod.com/topic/9708-battleye-filter-editor/
 
 #### Download TornZ & TornZ_Exile
 Is only available via a3launcher @ http://a3launcher.com/  
+
+#### Important
+Max Player Count is around 70 players, due to limit on group size.
+It is possible to increase this by altering the group code if required.
